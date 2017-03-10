@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         redcarpet
+highligther:         true
+
+# Gems
+gems: [jekyll-paginate, jekyll-gist]
+
+# Permalinks
+permalink:        pretty
+# Setup
+title:            Yagya's Pages
+tagline:          'learning never ends'
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0

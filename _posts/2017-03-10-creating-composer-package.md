@@ -152,4 +152,3 @@ The autoload binds the the namespace `Bakhari\DemoPackage` to directory 'src' th
 * [PHP Namespaces](http://php.net/manual/en/language.namespaces.php)
 * [PSR](http://www.php-fig.org/psr/)
 * [Semantic Versioning](http://semver.org/#semantic-versioning-200)
-

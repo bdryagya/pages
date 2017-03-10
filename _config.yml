@@ -14,3 +14,6 @@ paginate:         5
 
 # Custom vars
 version:          2.0.0
+
+# Analytics
+google_analytics: UA-93374633-1

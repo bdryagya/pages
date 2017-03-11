@@ -136,7 +136,7 @@ Next, we'll define [PSR-4](http://www.php-fig.org/psr/psr-4/) autoload for our l
     "require": {},
     "autoload": {
         "psr-4": {
-            "\\Bakhari\\DemoPackage\\": "src/"
+            "Bakhari\\DemoPackage\\": "src/"
         }
     }
 }
